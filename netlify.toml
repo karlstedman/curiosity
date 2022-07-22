@@ -9,7 +9,7 @@
   
   # Resolved config via Netlify
   commandOrigin = "ui"
-  publish = "/opt/build/repo/public"
+  # publish = "/opt/build/repo/public"
   publishOrigin = "ui"
 
 [build.environment]
