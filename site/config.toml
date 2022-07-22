@@ -1,4 +1,4 @@
-baseURL                          = "http://karlstedman.com/"   # Your domain name. Must end with "/"
+baseURL                          = "https://karlstedman.com/"   # Your domain name. Must end with "/"
 theme                            = "introduction"
 title                            = "Purveyor Of Curiosity"
 
