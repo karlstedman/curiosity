@@ -3,8 +3,8 @@
 # Settings in the [build] context are global and are applied to all contexts
 # unless otherwise overridden by more specific contexts.
 [build]
-  base = "curiosity/"
-  publish = "curiosity/docs/"
+  base = "site/"
+  publish = "site/docs/"
   command = "npm run build"
   
 
@@ -16,5 +16,5 @@
 
 [[redirects]]
   from = "/*"
-  to = "/index.md"
+  to = "/index.html"
   status = 200
