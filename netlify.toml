@@ -4,7 +4,7 @@
 # unless otherwise overridden by more specific contexts.
 [build]
   base = "curiosity/"
-  publish = "curiosity/docs"
+  publish = "curiosity/docs/"
   command = "npm run build"
   
 
