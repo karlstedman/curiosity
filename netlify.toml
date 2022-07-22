@@ -7,10 +7,6 @@
   publish = "public"
   command = "npm run build"
   
-  # Resolved config via Netlify
-  commandOrigin = "ui"
-  # publish = "/opt/build/repo/public"
-  # publishOrigin = "ui"
 
 [build.environment]
   HUGO_VERSION = "0.101.0"
