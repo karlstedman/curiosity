@@ -1,6 +1,11 @@
 {
   "scripts": {
-    "build": "npm install -g postcss postcss-cli autoprefixer && cd curiosity && hugo --gc --minify -t ../.. -d ../docs -v -b https://hugo-introduction.netlify.app/",
-    "dev": "cd curiosity && ENVIRONMENT=development hugo -t ../.. server"
+    "build": "npm install -g postcss postcss-cli autoprefixer && cd site && hugo --gc --minify -t ../.. -d ../docs -v -b https://hugo-introduction.netlify.app/",
+    "dev": "cd site && ENVIRONMENT=development hugo -t ../.. server"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.7",
+    "postcss": "^8.4.14",
+    "postcss-cli": "^10.0.0"
   }
 }
