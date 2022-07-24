@@ -3,6 +3,7 @@ theme                            = "introduction"
 title                            = "Purveyor Of Curiosity"
 googleAnalytics                  = "G-YL9W62LE3C"
 
+
 [params]
     themeStyle                   = "auto"                  # Choose "light" or "dark" or "auto"
     favicon                      = "/img/ks.ico"           # Path to favicon file
