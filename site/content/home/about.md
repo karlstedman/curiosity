@@ -8,6 +8,10 @@ weight: 0
 
 *-Louis D Brandeis*
 
+
+When you take an unconventional path to your goals, you create an unconventional perspective. I share this unconventional perspective in the media engagements below.
+
+
 [Innovation @ The Edge: What Has Space Done For Me Lately?](https://www.youtube.com/watch?app=desktop&v=GVGLGgLq9eg&t=2s)
 
 [GreenBuild: The Intersection Of Sustainability & Space](https://vimeo.com/616943144) (Panel starts @ 41:31)
