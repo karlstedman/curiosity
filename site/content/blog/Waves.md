@@ -4,6 +4,9 @@ date: 2022-07-27T08:27:19-07:00
 draft: false
 ---
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9771345861509030"
+     crossorigin="anonymous"></script>
+
 Mark Twain once said that *“history never repeats itself, but it often rhymes.”* This is as true now as it was then. I love to study history because if you know where we have been, you will be able to see the precursors of trends in where we are going. 
 
 When you go back in time and look at the maturation process of industries, from concept to maturation, they typically mature in three waves. This applies to oil, the internal combustion engine, trains, planes, the internet, crypto, Space, and more. Now for time’s sake, I will keep it simple. 
