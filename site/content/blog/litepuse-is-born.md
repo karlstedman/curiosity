@@ -1,5 +1,5 @@
 ---
-title: "Litepuse Is Born"
+title: "*Litepuse Is Born*"
 date: 2022-07-22T10:51:49-07:00
 draft: false
 ---

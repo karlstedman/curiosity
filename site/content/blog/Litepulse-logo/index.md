@@ -1,5 +1,5 @@
 ---
-title: "Litepulse New Logo"
+title: "*Litepulse New Logo*"
 date: 2022-09-06T07:31:03-07:00
 draft: false
 ---

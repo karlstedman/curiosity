@@ -1,5 +1,5 @@
 ---
-title: "Space Is Hard"
+title: "*Space Is Hard*"
 date: 2022-08-19T09:07:42-07:00
 draft: false
 ---

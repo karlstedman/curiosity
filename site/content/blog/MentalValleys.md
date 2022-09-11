@@ -1,5 +1,5 @@
 ---
-title: "Mental Valleys"
+title: "*Mental Valleys*"
 date: 2022-08-02T10:27:27-07:00
 draft: false
 ---
