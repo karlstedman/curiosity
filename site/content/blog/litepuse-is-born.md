@@ -5,9 +5,6 @@ draft: false
 googleAnalytics: "G-YL9W62LE3C"
 ---
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9771345861509030"
-     crossorigin="anonymous"></script>
-
 
 How business and mission are conducted in the space ecosystem has been static for decades. Progress has been primarily driven by Governmental money and the finicky focus of politics. This has resulted in the stagnation of humanity’s progress toward the stars. 
 

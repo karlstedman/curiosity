@@ -5,8 +5,6 @@ draft: false
 googleAnalytics: "G-YL9W62LE3C"
 ---
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9771345861509030"
-     crossorigin="anonymous"></script>
 
 I wanted to take a quick second to introduce ***Litepulse’s new branding*** to the world. The team did an amazing job! The new logo, colors, and icon capture the essence of Litepulse perfectly. 
 

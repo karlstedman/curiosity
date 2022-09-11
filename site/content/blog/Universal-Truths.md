@@ -6,9 +6,6 @@ googleAnalytics: "G-YL9W62LE3C"
 ---
 
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9771345861509030"
-     crossorigin="anonymous"></script>
-
 
 ***In times of universal deceit, telling the truth is a revolutionary act.***
 
