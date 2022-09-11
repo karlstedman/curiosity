@@ -2,6 +2,7 @@
 title: "*Space Is Hard*"
 date: 2022-08-19T09:07:42-07:00
 draft: false
+googleAnalytics: "G-YL9W62LE3C"
 ---
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9771345861509030"

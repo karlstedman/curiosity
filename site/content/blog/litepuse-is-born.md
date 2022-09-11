@@ -2,6 +2,7 @@
 title: "*Litepuse Is Born*"
 date: 2022-07-22T10:51:49-07:00
 draft: false
+googleAnalytics: "G-YL9W62LE3C"
 ---
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9771345861509030"

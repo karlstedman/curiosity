@@ -2,6 +2,7 @@
 title: "*Mental Valleys*"
 date: 2022-08-02T10:27:27-07:00
 draft: false
+googleAnalytics: "G-YL9W62LE3C"
 ---
 
 As a human in an uncertain world, one always has to embrace learning and adapting. It is the essence of life and success. Heraclitus said it best: 

@@ -2,6 +2,7 @@
 title: "*Universal Truths*"
 date: 2022-08-08T07:29:05-07:00
 draft: false
+googleAnalytics: "G-YL9W62LE3C"
 ---
 
 
