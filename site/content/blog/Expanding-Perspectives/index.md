@@ -5,9 +5,9 @@ draft: false
 googleAnalytics: "G-YL9W62LE3C"
 ---
 
-![interestrates](Interestrates.jpg)
+![interestrates](Interestrates.png)
 
-![deficit](deficit.jpg)
+![deficit](deficit.png)
 
 I like to speak and write on topics that are not traditionally covered. This is because I believe that a lot of the narratives that exist in most media are simplistic and written for the lowest common denominator. When one’s thought process is shallow and it comes time to assign blame (a typical, but misguided, social response), the reason cited is shallow as well.  This is especially problematic in the election cycles. (For bias’s sake, ***I am fiscally conservative and socially liberal***, or in other words right in the center but not affiliated with either major party). 
 
